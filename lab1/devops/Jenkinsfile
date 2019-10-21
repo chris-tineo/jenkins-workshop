@@ -1,5 +1,5 @@
 node{
-stage("init")
-echo "lab1"
+stage("init"){
+echo "lab1"}
 }
   
